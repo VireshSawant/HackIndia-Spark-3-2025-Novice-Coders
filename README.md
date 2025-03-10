@@ -114,6 +114,7 @@ ai-document-search/
 ├── document_organizer.py      # Module for document categorization and clustering
 ├── requirements.txt           # Python dependencies
 
+
 Technologies Used
 Python 3.8+
 Streamlit – For the interactive web-based frontend.
