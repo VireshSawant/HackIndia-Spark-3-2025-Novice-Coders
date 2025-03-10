@@ -1,4 +1,5 @@
 AI-Based Document Search & Retrieval Assistant
+
 Welcome to the AI-Based Document Search & Retrieval Assistant! This intelligent tool helps you quickly search through and retrieve relevant information from your documents. Whether you're a busy professional, a researcher, or just someone who needs to organize a large library of documents, our assistant makes it simple, fast, and efficient.
 
 Table of Contents
